@@ -1,0 +1,94 @@
+/*about*/
+
+
+.container-fluid{
+	background-color: antiquewhite;
+	
+}
+.col-md-2{
+	height:5500px;
+	padding-top: 30px;
+	padding-bottom:500px;
+	background-color: white;
+	border-right-width: 5%;
+	border-right-color: darkgray;
+}
+.booklogo{
+	height:250px;
+	width:auto;
+	padding-top: 20%;
+	margin-top: 0;
+	padding-left: 10;
+	padding-bottom: 25px;
+}
+
+.col-md-10{
+	height: 100%;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	background-color: beige;
+	
+}
+
+.form-inline.my-2.my-lg-0{
+	width: 110%;
+	padding-left:0%;
+	padding-top: 20%;
+	padding-bottom: 20%; 
+	margin-top: 0;
+}
+.form-control.mr-sm-2{
+	width: 80%;
+	 
+}
+.btn.btn-secondary.my-2.my-sm-0{
+	width:80%;
+	padding-right: 73%
+ }
+.portrait1{
+	float: left; 
+	clear: left;
+	height:250px;
+	width: auto;
+	padding: 20px;20px;20px;20px;
+	
+}
+.portrait2{
+	text-align: center;
+	float: left; 
+	clear: left;
+	height:250px;
+	width: auto;
+	padding: 20px;20px;20px;20px;
+}
+.portrait3{
+	float: left; 
+	clear: left;
+	height:250px;
+	width: auto;
+	padding: 20px;20px;20px;20px;
+}
+.portrait4{
+	float: left; 
+	clear: left;
+	height:250px;
+	width: auto;
+	padding: 20px;20px;20px;20px;
+}
+.person1{
+	float:left;
+	padding-top: 15px;
+}
+.person2{
+	float:left;
+	padding-top: 15px;
+}
+.person3{
+	float:left;
+	padding-top: 15px;
+}
+.person4{
+	float:left;
+	padding-top: 15px;
+}
